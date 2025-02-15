@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Arctic Nord Dock
+Comment=Lightweight dock for copying palette values in various formats.
+Exec=@BINDIR@/arctic-nord-dock
+Icon=arctic-nord-dock
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupWMClass=ArcticNordDock
